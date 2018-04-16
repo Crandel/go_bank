@@ -1,0 +1,22 @@
+{
+    "Version": "0.0.1",
+    "Database": {
+        "Type": "postgres",
+        "Path": "host=postgres user=gouser dbname=godb sslmode=disable password=pass"
+    },
+    "Server": {
+        "Host": "127.0.0.1",
+        "Domain": "localhost",
+        "Port": 8000,
+        "UseHTTPS": false,
+        "HTTPS": {
+            "Port": 443,
+            "Certificate": "/path/to/certificate",
+            "Key": "/path/to/key"
+        }
+    },
+    "Token": {
+        "SecretKey": "SecretKey",
+        "Expire": 28800
+    }
+}
