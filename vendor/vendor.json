@@ -33,6 +33,12 @@
 			"revisionTime": "2018-03-15T14:35:31Z"
 		},
 		{
+			"checksumSHA1": "Sf/CFFl00e8nN8DDKaT2dKLUaFI=",
+			"path": "github.com/jinzhu/gorm/dialects/postgres",
+			"revision": "6842b49a1ad0feb6b93be830fe63a682cf853ada",
+			"revisionTime": "2018-04-16T14:20:02Z"
+		},
+		{
 			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
 			"path": "github.com/jinzhu/inflection",
 			"revision": "04140366298a54a039076d798123ffa108fff46c",
@@ -43,6 +49,24 @@
 			"path": "github.com/justinas/alice",
 			"revision": "03f45bd4b7dad4734bc4620e46a35789349abb20",
 			"revisionTime": "2017-10-23T06:44:55Z"
+		},
+		{
+			"checksumSHA1": "F7vsuKOVSMnFSi90odRxfhBEBeA=",
+			"path": "github.com/lib/pq",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "EnMmNGgpDa5sNw0Zs5RhvNDcP2g=",
+			"path": "github.com/lib/pq/hstore",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
 		}
 	],
 	"rootPath": "bank"

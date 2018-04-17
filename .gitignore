@@ -14,10 +14,9 @@ data/
 *.pem
 
 # vendor folders
-.vendor/*
-vendor/*
-!vendor/vendor.json
-!vendor/app/*
+vendor/github.com/*
 
 # config
 config.json
+
+bank
